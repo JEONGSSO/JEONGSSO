@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 #### Tools
 
 ![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![vsc](https://img.shields.io/badge/phpStorm-773BB4?style=for-the-badge&logo=phpStorm&logoColor=white)
+![phpstorm](https://img.shields.io/badge/phpStorm-773BB4?style=for-the-badge&logo=phpStorm&logoColor=white)
+![notion](https://img.shields.io/badge/notion-773BB4?style=for-the-badge&logo=notion&color=fff&logoColor=333)
 
 #### Version Control
 
