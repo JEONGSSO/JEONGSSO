@@ -2,6 +2,8 @@
 
 - 안정성 있는 코드를 지향해 함수형 프로그래밍과 테스트를 작성하며 코드를 작성하는 것에 관심이 있습니다.
 
+<b>[Blog 📖](https://github.com/JEONGSSO/dev-log)<b/>
+
 <div align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGSSO&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-<b>[Blog 📖](https://github.com/JEONGSSO/dev-log)<b/>
+
 
 </div>
 
