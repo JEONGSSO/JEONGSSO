@@ -2,13 +2,13 @@
 
 - 안정성 있는 코드를 지향해 함수형 프로그래밍과 테스트를 작성하며 코드를 작성하는 것에 관심이 있습니다.
 
-<b>[Blog 📖](https://github.com/JEONGSSO/dev-log)<b/>
+<b>[📖 Blog](https://github.com/JEONGSSO/dev-log)<b/>
+  
+<b>[👀 Public Resume](https://www.notion.so/jeongssoo/Javascript-Developer-78733a2d59d64d2da63d03a28529619b)<b/>
 
 <div align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGSSO&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **JEONGSSO/JEONGSSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 
 </div>
 
